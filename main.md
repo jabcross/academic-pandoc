@@ -34,7 +34,7 @@ toc: true # Table of contents
 
 # Introduction {#sec:introduction}
 
-This is supposed to be a battery-included template to create publication ready documents from markdown. Blablabla
+This is supposed to be a battery-included template to create publication ready documents from markdown. Blablablafsdafadsf
 I created this to help with the publication of scientfic journal articles within the social sciences, so a lot of features are designed to help with just that.
 
 # Features {#sec:features}
